@@ -1,4 +1,5 @@
 # WYSIWYG Editor with SlateJS
+# EDITOR with Comments
 
 This project builds a WYSIWYG Editor using SlateJS and adds a Commenting System to it. The code compliments below articles -
 
